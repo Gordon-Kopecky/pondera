@@ -39,3 +39,6 @@ up to date with development.
 ## Enforcement & Feedback
 
 The team will update eachother on their progress every meeting and hold eachother accountable to their assignment due dates by the end of the meetings. We'll give feedback individually on each major assignment, and then give independent feedback so that there's unbiased points of view on everyone's workflow. 
+
+## Signatures
+![Image of my (Joshua Miller's) signature](https://lh3.googleusercontent.com/d/1xV4cqnf2z8syTw6TqucqRoda28ElcnUU)
