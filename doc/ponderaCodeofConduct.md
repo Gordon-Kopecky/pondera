@@ -46,3 +46,5 @@ The team will update eachother on their progress every meeting and hold eachothe
 ![Image of my (Christion Hairabedian's) signature](https://github.com/cherishton/CSC-305-CHH/blob/main/signature.png)
 
 ![Image of my (Sean Hudson's) signature](https://drive.google.com/uc?export=view&id=15bv3hzgxxDtCczwz5QxaEhGLYsV2x9VI)
+
+![Image of my (Gordon Kopecky's) signature](https://drive.google.com/uc?export=view&id=1jjQWAjr3YzskvRXqi068vQ2IlZd7pXWd)
