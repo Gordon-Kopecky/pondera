@@ -44,3 +44,5 @@ The team will update eachother on their progress every meeting and hold eachothe
 ![Image of my (Joshua Miller's) signature](https://lh3.googleusercontent.com/d/1xV4cqnf2z8syTw6TqucqRoda28ElcnUU)
 
 ![Image of my (Christion Hairabedian's) signature](https://github.com/cherishton/CSC-305-CHH/blob/main/signature.png)
+
+![Image of my (Sean Hudson's) signature](https://drive.google.com/uc?export=view&id=15bv3hzgxxDtCczwz5QxaEhGLYsV2x9VI)
