@@ -7,4 +7,6 @@ Link to slide: [School Administrator](https://docs.google.com/presentation/d/1RN
 # Persona 3: University Student
 Link to slide: [University Student](https://docs.google.com/presentation/d/1RNT3qP0Z2ejJcckOgNyo1z0K5_1PyuxI5KRdlXQ5jIo/edit?slide=id.h7a6832ad89b8b584_0_47#slide=id.h7a6832ad89b8b584_0_47) 
 
-# Persona 4: 
+# Persona 4: Graduate Teaching Assistant
+Link to slide: [Graduate Teaching Assistant](https://docs.google.com/presentation/d/1RNT3qP0Z2ejJcckOgNyo1z0K5_1PyuxI5KRdlXQ5jIo/edit?slide=id.h7a6832ad89b8b584_7_1#slide=id.h7a6832ad89b8b584_7_1)
+
