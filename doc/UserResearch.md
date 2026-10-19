@@ -5,10 +5,11 @@
   - **Team Action (if any):** Prioritize incorporating team communication and individual contribution tracking directly into Pondera. By combining these features with task management in one application, we can provide students with a more organized way to communicate, track progress, and document individual contributions.
 
 
-- **Observation 1:**
-  - **Observation Statement:** Many surveyed users expressed concerns about how responsibilities and individual contributions are managed in group projects. The results suggest that students want a clearer division of work and better ways to ensure that each group member is contributing fairly.
 
-  - **Supporting Data:** Out of 34 survey responses, 38.2% of participants reported using team messages or emails to track individual work, while 26.5% relied on shared documents or version history. Only 17.6% used a task board or project-management app, and 11.8% did not track individual contributions at all. When asked which Pondera feature would be most useful, 26.5% selected clear task assignments to specific teammates, while 23.5% preferred an overview of each team member's contributions. Together, these two features accounted for 50% of responses, suggesting a strong interest in improving task division and accountability.
+- **Observation 2:**
+  - **Observation Statement:** Survey results suggest that students are concerned with how tasks are divided and how individual contributions are recognized in group projects. Many students want a better way to clearly establish responsibilities and ensure that work is distributed fairly among team members.
 
-  - **Team Action (if any):** Prioritize features in Pondera that allow users to assign specific tasks to group members, track individual contributions, and provide a clear overview of each person's responsibilities. This would help teams better manage workloads and encourage a fairer division of work.
+  - **Supporting Data:** Out of 34 survey responses, 26.5% of participants selected clear task assignments to specific teammates as the most useful feature for Pondera. Another 23.5% preferred an overview of each team member's contributions. Combined, 50% of respondents prioritized features related to task division and individual accountability. This suggests that students value knowing exactly who is responsible for each task and being able to see how much each person contributes.
+
+  - **Team Action (if any):** Focus on developing a task assignment system that clearly defines each group member's responsibilities. Pondera should also provide a way to view individual progress and completed work so teams can identify uneven workloads and make adjustments before they become a larger issue.
 
