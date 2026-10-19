@@ -13,3 +13,8 @@
 
   - **Team Action (if any):** Focus on developing a task assignment system that clearly defines each group member's responsibilities. Pondera should also provide a way to view individual progress and completed work so teams can identify uneven workloads and make adjustments before they become a larger issue.
 
+- **Observation 2:**
+  - **Observation Statement:** The three biggest issues students faced in their most recent group projects were poor communication, unclear responsibilities or  tasks, and unequal division of work.
+  - **Supporting Data:** For the following question: “Which issues, if any, occurred on the most recent group project you participated in or supervised?” 55.9% of students selected poor communication, 52.9% selected unclear responsibilities or tasks, and 44.1% selected unequal division of work.
+  - **Team Action:** We will focus on the customers needs when building the app. This means we will put most of our focus on improving communication, making responsibilities and tasks more clear, and equally dividing up work. 
+
