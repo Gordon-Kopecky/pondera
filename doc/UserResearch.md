@@ -4,3 +4,8 @@
   - **Supporting Data:** Of the 34 responses, 38.2% reported using team messages or email, while 26.5% used shared documents or version history. Combined, 64.7% of respondents relied on these methods, compared to only 17.6% who used a dedicated task board or project management application.
   - **Team Action (if any):** Prioritize incorporating team communication and individual contribution tracking directly into Pondera. By combining these features with task management in one application, we can provide students with a more organized way to communicate, track progress, and document individual contributions.
 
+- **Observation 2:**
+  - **Observation Statement:** A majority of surveyed users expressed frustration with unequal task distribution in group projects. Many felt that responsibilities were not divided fairly, leaving certain group members with more work than others.
+  - **Supporting Data:** Survey responses showed that many participants experienced unfair workloads, poor task division, and situations where group members were aware that responsibilities were unequal.
+  - **Team Action (if any):** Prioritize features in Pondera that allow users to assign tasks, track individual contributions, and encourage a more balanced distribution of responsibilities among group members.
+
