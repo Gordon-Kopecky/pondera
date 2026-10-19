@@ -13,6 +13,8 @@
 
   - **Team Action (if any):** Focus on developing a task assignment system that clearly defines each group member's responsibilities. Pondera should also provide a way to view individual progress and completed work so teams can identify uneven workloads and make adjustments before they become a larger issue.
 
+
+
 - **Observation 3:**
   - **Observation Statement:** The three biggest issues students faced in their most recent group projects were poor communication, unclear responsibilities or  tasks, and unequal division of work.
   
@@ -20,3 +22,11 @@
   
   - **Team Action:** We will focus on the customers needs when building the app. This means we will put most of our fcus on improving communication, making responsibilities and tasks more clear, and equally dividing up work. 
 
+
+
+- **Observation 4:**
+  - **Observation Statement:** Many students have difficulty seeing who contributed what on a group project, and teams that used a dedicated task board reported fewer issues than teams that relied on messages, email, or shared documents. Several students also said their chat and task tracking were in separate places, which made progress unclear.
+
+  - **Supporting Data:** For the following question: “Which issues, if any, occurred on the most recent group project you participated in or supervised?” about 41% of students selected difficulty determining who contributed what. Among students who tracked work through team messages, email, or shared documents, roughly 3 in 4 reported at least one issue, compared to about half of students who used a task board or project-management app. In the open-ended responses, a few students described chat and task tracking as separate systems, including one who said they wanted “a chat that had task tracking within it.”
+
+  - **Team Action:** We will make contribution visibility a core part of Pondera by recording who completed each task, when, and with what evidence (files or links). We will also connect team chat and the task board so that updates made in conversation, like claiming or completing a task, appear on the board without extra steps. Because only 6 respondents used a task board, we plan to validate this finding with a larger sample or follow-up interviews.
