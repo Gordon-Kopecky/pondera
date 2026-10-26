@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "987075550320",
+    "project_id": "pondera-305",
+    "storage_bucket": "pondera-305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987075550320:android:41ea62fc143560aab3e8b5",
+        "android_client_info": {
+          "package_name": "com.mycompany.pondera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987075550320-m1lvh2m6b2dfoffsa69ik9m6emum4jao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzi537LP3gQPwiyz7oHZn4dY_RHqbDTv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987075550320-m1lvh2m6b2dfoffsa69ik9m6emum4jao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987075550320-v985pqc5enu19qi4kin7d8fccn6ehevj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pondera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
