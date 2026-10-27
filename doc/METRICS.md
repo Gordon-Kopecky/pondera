@@ -9,3 +9,9 @@
 - **Registration Rate (Adoption):** We will use Firebase Authentication to track how many new users successfully create an account on Pondera. This will help us monitor new registrations and see how our user base grows over time.
 
 - **Golden Path CTR (Adoption):** We will use Firebase Analytics to track how many users click the "Create New Project" button on the project dashboard. A custom event called `create_project_clicked` will record each click. We will compare the number of unique users who click the button to the number of unique users who view the dashboard to calculate the click-through rate.
+
+- **Daily Active Users (DAU) (Engagement):** We will use Firebase Analytics to track the number of unique users who actively use Pondera each day. This will help us measure how frequently students engage with the app and whether they are consistently using it to manage their group projects.
+
+- **Average Tasks Completed per Active User (Engagement):** We will use Firebase Analytics to track how many tasks users complete each week. A custom event called task_completed will record each time a user successfully completes a task. We will divide the total number of completed tasks by the number of weekly active users to calculate the average tasks completed per active user. This will help us understand how actively students contribute to their group projects.
+
+- **Average Messages Sent per Active User (Engagement):** We will use Firebase Analytics to track how frequently students communicate through Pondera's group chats. A custom event called message_sent will record each time a user sends a message within a project. We will divide the total number of messages sent each week by the number of weekly active users to calculate the average messages sent per active user. This will help us measure how effectively Pondera encourages communication and collaboration among group members.
