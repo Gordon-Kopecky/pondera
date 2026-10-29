@@ -6,8 +6,9 @@
 
 ## Metric Collection
 
-= **Net Promoter Score (Happiness):**: We will use Firebase's data to track the user's activity, and after they've had an account for a few days and engaged with the app enough (interacting with features a certain amount of times), it will prompt for how likely they are to recommend the app to their friends/peers.
+- **Net Promoter Score (Happiness):** We will use Firebase's data to track the user's activity, and after they've had an account for a few days and engaged with the app enough (interacting with features a certain amount of times), it will prompt for how likely they are to recommend the app to their friends/peers.
 
+- **Average Satisfaction Rating (Happiness):** We will use Firebase Analytics to collect satisfaction ratings from students and professors through occasional in-app surveys. Users will rate their overall experience with Pondera on a scale of 1–5. We will calculate the average rating over time to determine whether users are satisfied with the app and identify areas that need improvement.
 
 - **Registration Rate (Adoption):** We will use Firebase Authentication to track how many new users successfully create an account on Pondera. This will help us monitor new registrations and see how our user base grows over time.
 
