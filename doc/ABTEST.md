@@ -85,6 +85,54 @@ Both variations will collect the same information and provide the same functiona
 
 We expect **Variation A to have a higher account creation completion rate** because separating the login and signup processes will create a cleaner, more organized experience for users.
 
+## Metrics
+
+- **Task Success:** Percentage of users who successfully update their profile information.
+- **Engagement:** Number of users who interact with the edit profile button and complete a profile change.
+- **Happiness:** User satisfaction with the ease and convenience of editing their profile.
+
+# A/B Test: Popup quick edit profile
+
+## User Story Number
+US1 – Account Creation
+
+## Hypothesis
+
+When users want to update their profile picture or name in Pondera, we want the process to be as quick and simple as possible. Navigating to a separate edit profile page could make the process feel longer than necessary, especially for small changes.
+
+We believe that displaying a quick popup instead of navigating to a separate page will make editing profiles more convenient and encourage more users to complete their changes.
+
+## Experiment
+
+We will use Firebase A/B Testing and Remote Config to randomly assign users to one of two variations. Each variation will receive 50% of the experiment traffic.
+
+Firebase Analytics will track when users click the edit profile pencil button, begin editing their information, and successfully save their changes.
+
+The following events will be tracked:
+
+- `edit_profile_clicked` – When a user selects the edit profile pencil button.
+- `profile_edit_started` – When a user begins changing their name or profile picture.
+- `profile_updated` – When a user successfully saves their profile changes.
+
+We will compare profile editing completion rates between both variations to determine which design is more effective. We can also collect user feedback to measure satisfaction with the editing process.
+
+## Variations
+
+### Variation A: Separate Edit Profile Page (Control)
+
+When users click the pencil button on their profile, they will be taken to a separate edit profile page. On this page, they can update their name and profile picture along with other settings before selecting Save to apply their changes.
+
+After saving, users will return to their profile page.
+
+### Variation B: Quick Edit Popup (Treatment)
+
+When users click the pencil button on their profile, a popup will appear without navigating away from the current page. The popup will allow users to quickly change their name and profile picture before selecting Save.
+
+Once saved, the popup will close and the updated information will appear immediately on their profile.
+
+Both variations will allow users to change the same information and provide the same functionality. The only difference is how the editing interface is displayed.
+
+We expect Variation B to have a higher profile editing completion rate because users can make quick changes without navigating to another page, making the process faster and more convenient.
 
 
 
