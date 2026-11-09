@@ -135,4 +135,41 @@ Both variations will allow users to change the same information and provide the 
 We expect Variation B to have a higher profile editing completion rate because users can make quick changes without navigating to another page, making the process faster and more convenient.
 
 
+## A/B Test: "Sign Up" vs. "Get Started" Button Text
 
+### User Story Number
+US1 – Account Creation
+
+### Metrics
+- **Click-Through Rate (CTR):** Percentage of users who tap the button on the welcome screen.
+- **Adoption:** Number of new users who create an account.
+
+### Hypothesis
+The button on the welcome screen is the first step to creating an account. Its wording could affect whether new users feel ready to start.
+
+We believe that changing the button text from "Sign Up" to "Get Started" will feel friendlier and encourage more users to tap it.
+
+### Experiment
+We will use Firebase A/B Testing and Remote Config to randomly assign new users to one of two variations. Each variation will receive 50% of the experiment traffic.
+
+Firebase Analytics will track when users view the welcome screen, tap the button, and create an account.
+
+The following events will be tracked:
+
+- `welcome_screen_viewed` – When a user sees the welcome screen.
+- `signup_button_clicked` – When a user taps the button.
+- `account_created` – When a user successfully creates an account.
+
+We will compare button click-through rates and account creation rates between both variations to determine which wording is more effective.
+
+### Variations
+
+#### Variation A: "Sign Up" (Control)
+The button on the welcome screen says "Sign Up."
+
+#### Variation B: "Get Started" (Treatment)
+The button on the welcome screen says "Get Started."
+
+Both variations will look and work the same. The only difference is the button text.
+
+We expect Variation B to have a higher click-through rate because "Get Started" sounds easier and less like a commitment.
